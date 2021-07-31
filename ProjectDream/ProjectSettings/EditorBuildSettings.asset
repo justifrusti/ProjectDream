@@ -5,7 +5,16 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/HDRP/Scenes/SampleScene.unity
     guid: 3db1837cc97a95e4c98610966fac2b0b
+  - enabled: 1
+    path: Assets/Assets/Scenes/MainMenu.unity
+    guid: 29cb5a4624f162942bcfe28f166fb958
+  - enabled: 1
+    path: Assets/Assets/Scenes/Test Scenes/Justin's Playground.unity
+    guid: e7d29e5bc764e1144b4400a16e4bac8c
+  - enabled: 1
+    path: Assets/Assets/Scenes/Test Scenes/Davido's Playground.unity
+    guid: 13ba6f4e338f84c419c24a953ae0fe88
   m_configObjects: {}
